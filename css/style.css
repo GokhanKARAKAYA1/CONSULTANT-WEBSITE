@@ -1,0 +1,53 @@
+.imageSlider {
+  height: 600px;
+}
+body {
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif;
+}
+.hakkimizda {
+  background-color: #f2f2f2;
+}
+nav a span:nth-child(1) {
+  font-size: 40px;
+  color: blue;
+  font-weight: bold;
+}
+.ayrac {
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto;
+}
+.iwhite {
+  color: blue;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+.igray {
+  color: blue;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid white;
+  background-color: white;
+}
+.personelCard > img:hover {
+  opacity: 0.6;
+}
+.galeri {
+  background-color: #f2f2f2;
+}
+.figure:hover {
+  opacity: 0.8;
+}
+.nav-link {
+  color: blue;
+  font-weight: bold;
+}
+footer div p span b{
+  color: blue;
+}
