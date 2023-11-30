@@ -6,8 +6,8 @@
 <h3>How to Use</h3>
 
 1. Download or clone the project files.
-2. 
-3. Open the `index.html` file in a web browser to view the website.
+   
+2. Open the `index.html` file in a web browser to view the website.
 
 <h3>Features</h3>
 
